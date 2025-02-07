@@ -1,2 +1,2 @@
 # javascript-files
-files
+files from course
