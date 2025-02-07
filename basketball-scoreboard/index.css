@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background-color:gainsboro;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border: none;
+    padding: 8px;
+    color: white;
+    background: darkgray;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+@font-face {
+    font-family: "Cursed Timer ULiL";
+    src: url("./CursedTimerUlil-Aznm.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-family: "Cursed Timer ULiL", sans-serif;
+    font-size: 40px;
+    padding: 0px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}

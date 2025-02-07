@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s04k019",
+  "description": "https://scrimba.com/learn-javascript-c0v/~018/s0j4i3rq1g/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
