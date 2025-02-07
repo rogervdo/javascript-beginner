@@ -1,0 +1,35 @@
+body {
+    font-family: 'Karla', Arial;
+    margin: 8%;
+    background-color: #1F2937;
+    color: white;
+    text-align: left;
+}
+
+h1 {
+    margin: 0px
+}
+
+.container {
+    display:flex;
+    justify-content: space-around;
+}
+
+#greenH1 {
+    color: #4ADF86
+}
+
+button {
+    border:none;
+    color:white;
+    background-color: #10B981;
+    padding:11px;    border-radius: 6px;
+    font-size: small;
+    margin-bottom:15px;
+}
+
+#password-one, #password-two {
+    background-color: #273549;
+    padding:10px;
+    border-radius: 6px;
+}
